@@ -1,5 +1,7 @@
 # MediX多智能体医疗助手
 
+> 在线演示：[http://medix.jingyoulian.net/](http://medix.jingyoulian.net/)
+
 基于 Skills-Agent 两层架构的多智能体协作医疗助手系统，融合 Agent Loop、Agent Swarm、记忆管理和 Milvus 知识库。
 
 ## 📋 项目概述
