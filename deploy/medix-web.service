@@ -1,0 +1,17 @@
+[Unit]
+Description=MediX Agent Swarm Web
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/medix-agent-swarm
+Environment=PYTHONIOENCODING=utf-8
+Environment=GRPC_VERBOSITY=ERROR
+Environment=GLOG_minloglevel=2
+ExecStart=/opt/medix-agent-swarm/.venv/bin/python web_app.py --host 127.0.0.1 --port 7864
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

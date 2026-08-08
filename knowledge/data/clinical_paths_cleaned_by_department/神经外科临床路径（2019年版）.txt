@@ -1,0 +1,323 @@
+科室文件夹：神经外科临床路径（2019年版）
+来源目录：D:\workfile\224个病种临床路径（2019年版）\神经外科临床路径（2019年版）
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+病种：三叉神经痛
+来源文件：三叉神经痛临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）疼痛局限于三叉神经感觉根分布区，多以单侧牙痛或颜面、下颌、鼻翼、额头疼痛起病。
+（2）在三叉神经的一支或多支的分布区出现刀割样、针刺样、电击样或烧灼样剧烈疼痛或钝痛，反复发作，突然出现，持续数秒至数分钟甚至更长时间后骤停，可伴有同侧流涎、流泪、面肌反射性痉挛等；
+通常口服卡马西平或奥卡西平有效，随着病程进展，药效下降需要增加剂量方能缓解疼痛。
+（3）疼痛区常有扳击点，可因洗脸、刷牙、进餐、说话等机械性刺激诱发疼痛发作。
+2.辅助检查 （1）颅脑3D-TOF-MRA或3D-CISS-MR检查能了解三叉神经根有无血管相邻或压迫。
+（2）颅脑MRI检查排除颅脑肿瘤。
+（三）选择治疗方案的依据
+1.原发性三叉神经痛诊断明确。
+2.药物或神经阻滞、射频毁损、球囊压迫等治疗效果不佳。
+3.不能接受其他外科方法治疗带来的的面部麻木。
+4.患者一般情况好，无严重高血压、糖尿病、冠心病、凝血功能障碍或其他严重器质性病变，能够耐受全麻手术。
+5.排除脑肿瘤等疾病引起的继发性三叉神经痛。
+
+
+------
+
+病种：三叉神经良性肿瘤
+来源文件：三叉神经良性肿瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）三叉神经症状：最多见，多为首发症状, 表现为患侧面部及口腔麻木感、痛觉减退、角膜反射迟钝或消失；
+其次出现阵发性疼痛（三叉神经痛），疼痛常局限于三叉神经感觉根分布区，多以单侧牙痛或颜面、下颌、鼻旁疼痛起病，以后可逐渐出现咀嚼肌、颞肌无力或萎缩。
+（2）临近结构受侵犯表现：包括颅神经、脑干、小脑受压迫产生的症状，如肿瘤位于颅后窝者可逐渐出现复视、周围性面肌麻痹和进行性耳聋，晚期可有小脑症状、颅内压增高和后组颅神经症状；
+位于颅中窝者可逐渐出现视力障碍、动眼神经麻痹、同侧眼球突出等症状；
+肿瘤骑跨于颅中、后窝者可引起对侧轻偏瘫及小脑症状。
+（3）颅内压增高症状：头痛、呕吐等，由肿瘤体积增大引起。
+2.辅助检查 （1）头颅CT：肿瘤呈等密度或低密度卵圆形或哑铃形影像，常骑跨颅中、后窝，骨窗像可显示颅中窝或岩骨骨质破坏吸收。
+（2）头颅MRI：肿瘤典型征象为骑跨颅中、后窝生长，边界清楚的哑铃形肿物；
+T1加权像呈低或等信号，T2加权像呈高或等 HYPERLINK "http://www.hudong.com/wiki/%E4%BF%A1%E5%8F%B7" \o "信号" 信号 ，注射造影剂后可被强化，少数囊变者环形强化，瘤周一般无水肿。
+MRI可显示肿瘤与临近结构如脑干、海绵窦等的关系。
+（3）颅神经电生理检查。
+（三）选择治疗方案的依据
+1.临床诊断为三叉神经良性肿瘤，有颅内压增高症状或局灶性症状者需手术治疗，手术方法是开颅三叉神经肿瘤切除术。
+2.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------
+
+病种：创伤性急性硬脑膜下血肿
+来源文件：创伤性急性硬脑膜下血肿临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）病史：一般都有外伤史，临床症状较重，并迅速恶化，尤其是特急性创伤性硬脑膜下血肿，伤后短时间内可发展为濒死状态。
+（2）意识障碍：伤后多数为原发性昏迷与继发性昏迷相重叠，或昏迷的程度逐渐加深；
+较少出现中间清醒期。
+（3）颅内压增高表现：颅内压增高症状出现较早，其间呕吐和躁动比较多见，生命体征变化明显（库欣反应）。
+（4）脑疝症状：出现较快，尤其是特急性创伤性硬脑膜下血肿，一侧瞳孔散大后短时间内出现对侧瞳孔散大，并出现去脑强直、病理性呼吸等症状。
+（5）局灶症状：较多见，早期即可因自脑挫伤或（和）血肿压迫引起偏瘫、失语。
+2.辅助检查 （1）头颅CT扫描(带骨窗像)：是诊断的主要依据，表现为脑表面的新月形或半月形高密度影；
+如果合并脑挫裂伤，局部可观察到高密度的碎片影；
+如果有对冲部位硬膜外血肿，常可见到对冲部分紧邻颅骨的凸透镜型高密度影。
+（2）头颅X线平片：半数患者可见颅骨骨折，包括线性骨折或凹线性骨折，部位可与血肿部位不一致。
+（三）选择治疗方案的依据
+1.手术治疗：创伤性急性硬脑膜下血肿诊断明确，有以下情况者应行硬脑膜下血肿清除术： （1）有明显颅内压增高症状和体征，意识障碍或症状进行性加重，或出现新的阳性体征、再昏迷。
+（2）CT扫描提示脑受压明显，血肿厚度＞10mm，或大脑中线移位＞5mm。
+（3）幕上血肿量＞30ml（颞部血肿量＞20ml）或幕下血肿量＞10ml。
+2.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------
+
+病种：创伤性闭合性硬脑膜外血肿
+来源文件：创伤性闭合性硬脑膜外血肿临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）病史：一般均有外伤史，临床症状较重，并迅速恶化，尤其是特急性创伤性闭合性硬脑膜外血肿，伤后短时间内可发展为濒死状态。
+（2）意识障碍：伤后多数为原发性昏迷与继发性昏迷相重叠，或昏迷的程度逐渐加深；
+可出现中间清醒期。
+（3）颅内压增高表现：颅内压增高症状出现较早，呕吐和躁动较常见，生命体征变化比较明显（库欣反应）。
+（4）脑疝症状：常见于特急性创伤性闭合性巨大硬脑膜外血肿，一侧瞳孔散大后短时间内出现对侧瞳孔散大，并出现去脑强直、病理性呼吸等症状。
+（5）局灶症状：较多见，早期即可因脑挫伤或（和）血肿压迫引起偏瘫、失语。
+2.辅助检查 （1）头颅CT扫描(含骨窗像)：典型CT表现为颅骨内板与脑表面间有一双凸镜形或梭形高密度影。
+CT检查可明确诊断、确定血肿部位、评估血肿量。
+骨窗像对诊断颅骨骨折具有重要意义。
+（2）疑有后颅窝血肿，CT扫描伪影严重时，考虑行急诊MRI检查。
+（3）实验室检查：血常规、凝血功能、输血前ICT。
+（三）选择治疗方案的依据
+1.创伤性闭合性硬脑膜外血肿诊断明确，选用骨瓣开颅血肿清创术： （1）临床有颅内压增高症状或局灶性症状。
+（2）幕上血肿＞30ml，颞区血肿＞20ml，幕下血肿＞10ml。
+（3）患者意识障碍进行性加重或出现昏迷者。
+2.需向家属交代病情及围术期可能出现的并发症。
+3.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如患者家属不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+4.对于严密观察保守治疗的患者，如出现颅内压增高征象、意识障碍进行性加重或新发神经系统局灶性症状，应当立即复查头颅CT，并重新评价手术指征。
+
+
+------
+
+病种：大脑中动脉动脉瘤
+来源文件：大脑中动脉动脉瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）破裂动脉瘤：①动脉瘤破裂出血症状：大脑中动脉动脉瘤破裂可引起蛛网膜下腔出血（SAH）、脑内出血、脑室出血或硬脑膜下腔出血等。
+其中SAH最为常见，典型症状和体征有剧烈头痛、呕吐甚至昏迷等;②脑血管痉挛症状：症状通常逐渐发生，表现为精神异常或意识障碍，伴局灶性神经功能缺损；
+③癫痫发作：可发生抽搐，多为癫痫大发作;④脑积水：动脉瘤出血后，可因凝血块阻塞室间孔或中脑导水管，引起急性脑积水；
+或基底池粘连、蛛网膜颗粒吸收障碍，引起慢性脑积水; （2）未破裂动脉瘤：可表现为头痛、头晕、癫痫、TIA发作等，也可无任何症状，经查体或其他原因偶然发现。
+2.辅助检查 （1）头颅CT：是SAH首选诊断方法，通过CT扫描还可评定以下方面：①脑室大小：部分动脉瘤破裂患者立即发生脑积水;②血肿，有占位效应的脑内血肿或大量硬脑膜下血肿;③梗死;④脑池和脑沟中出血量：血管痉挛的重要预后因素;⑤合并多发动脉瘤时，CT可以初步判断责任动脉瘤;⑥部分患者可以通过头颅CT初步预测动脉瘤的位置：出血主要在侧裂及鞍上池，侧裂周围额颞叶伴有血肿者高度怀疑大脑中动脉动脉瘤。
+（2）数字减影脑血管造影（DSA）：目前是诊断颅内动脉瘤的“金标准”，大部分患者可显示出动脉瘤的部位、大小、形态、有无多发动脉瘤，仅少数患者归于“不明原因SAH”。
+另外，DSA还可以显示是否存在血管痉挛及其程度。
+（3）CT脑血管造影（CTA）：多数情况下可以显示动脉瘤的部位、大小、形态、有无多发动脉瘤、载瘤动脉及动脉瘤的钙化情况，以及病变与骨性结构解剖关系。
+对于无法行急诊DSA检查的治疗中心可行CTA初步明确诊断。
+CTA可用于动脉瘤手术后的随访。
+（4）头颅MRI：对于大动脉瘤应行头颅MRI检查。
+磁共振血管成像（MRA）可用于体检筛查动脉瘤以及动脉瘤手术后的随访。
+（5）腰椎穿刺：SAH最敏感的检查方法，但目前不应当作为首选诊断方法。
+降低脑脊液压力有可能因增加跨血管壁压力而导致再出血，故建议仅用于CT不能证实而临床高度怀疑的病例，应当使用较细的腰椎穿刺针，放出少量脑脊液（几毫升）即可。
+（三）选择治疗方案的依据
+1.诊断为大脑中动脉动脉瘤，有明确手术适应证需手术治疗，手术方法是行额颞开颅翼点或眶上眉弓入路动脉瘤夹闭术，不包括需颅内外动脉搭桥血流重建的病例。
+2.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交待病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------
+
+病种：大脑凸面脑膜瘤
+来源文件：大脑凸面脑膜瘤临床路径（2019年版）.docx
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="007242A6"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·神经外科学分册》（中华医学会编著，人民卫生出版社）、《临床技术操作规范·神经外科分册》（中华医学会编著，人民军医出版社）、《王忠诚神经外科学》（王忠诚主编，湖北科学技术出版社）、《神经外科学》（赵继宗主编，人民卫生出版社）。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体" w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.临床表现
+（1）病史：病程一般较长，许多患者主要表现为不同程度的头痛、精神障碍，部分患者因头外伤或其他原因，经头颅CT检查偶然发现。
+（2）颅高压症状：症状可很轻微，如眼底视盘水肿，但头痛不剧烈。当失代偿时，病情可迅速恶化。
+（3）局灶性症状：根据肿瘤生长部位及临近结构的不同，可出现不同的神经功能障碍表现，如位于额叶或顶叶的脑膜瘤易产生刺激症状，引起癫痫发作，以局限运动性发作常见，表现为面部和手脚抽搐，部分患者可表现为Jackson癫痫，感觉性发作少见。有的患者仅表现为眼前闪光，需仔细询问病史方可发现。
+（4）局部神经功能缺失：以肢体运动、感觉障碍多见，肿瘤位于颞区或后区时因视路受压出现视野改变，优势半球的肿瘤还可导致语言障碍。
+2.辅助检查
+（1）头颅CT：病变密度均匀，可被明显强化，肿瘤基底宽，附着于硬脑膜上，可伴有钙化，另可见局部颅骨骨质改变。
+（2）头颅MRI：一般表现为等或稍长T1、T2信号影，注射造影剂后60%～70%的大脑凸面脑膜瘤，其基底部硬脑膜会出现条形增强带——“脑膜尾征”，为其较特异的影像特点。
+（3）根据患者情况，可选择行以下检查：①脑电图检查：目前主要用于癫痫患者术前、术后评估;②DSA：可了解肿瘤的血运情况和供血动脉的来源，以及静脉引流情况;③行2D-TOF和3D-CE-MRV检查，了解颅内静脉系统情况。
+（三）选择治疗方案的依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="007242A6"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·神经外科学分册》（中华医学会编著，人民卫生出版社）、《临床技术操作规范·神经外科分册》（中华医学会编著，人民军医出版社）、《王忠诚神经外科学》（王忠诚主编，湖北科学技术出版社）、《神经外科学》（赵继宗主编，人民卫生出版社）。
+1.临床诊断为大脑凸面脑膜瘤，有颅内压增高症状或局灶性症状者需手术治疗，手术方法为开颅幕上凸面脑膜瘤切除术，必要时术中行脑电监测。
+2.患者一般情况好，无高血压、糖尿病、冠心病、凝血功能障碍等严重器质性病变，能够耐受全麻手术。
+3.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------
+
+病种：大脑半球胶质瘤
+来源文件：大脑半球胶质瘤临床路径（2019年版）.docx
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·神经外科学分册》（中华医学会编著，人民卫生出版社）、《临床技术操作规范·神经外科分册》（中华医学会编著，人民军医出版社）、《王忠诚神经外科学》（王忠诚主编，湖北科学技术出版社）、《神经外科学》（赵继宗主编，人民卫生出版社）。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.临床表现：依病变所在部位及性质不同而表现各异；肿瘤体积增大或周围水肿引起颅压增高表现，主要为头痛、恶心、呕吐、视盘水肿等；肿瘤位于功能区或其附近，可早期出现神经系统定位体征：
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（1）精神症状：主要表现为反应迟钝、生活懒散、记忆力减退、判断能力差；亦可有脾气暴躁、易激动或欣快等。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（2）癫痫发作：包括全身性及局限性发作，部分患者表现为发作性感觉异常。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（3）锥体束损伤：肿瘤对侧半身或单一肢体力弱或瘫痪。病初为一侧腹壁反射减弱或消失，继而病变对侧腱反射亢进、肌张力增加和病理反射阳性。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（4）感觉异常：主要表现为皮质觉障碍，如肿瘤对侧肢体的关节位置觉、两点辨别觉、图形觉、实体感觉等障碍。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（5）失语和视野改变：如肿瘤位于语言中枢，视觉传导通路或视觉中枢，可出现相应表现。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>2.辅助检查：主要依据电子计算机断层扫描（CT）和磁共振成像（MRI），多数低级别胶质瘤的CT、MRI检查显示病灶增强不明显，CT扫描通常表现为低密度，MRI的T1加权像为低信号；T2加权像为高信号且范围超过肿瘤的边界；胶质母细胞瘤一般环形增强，中央为坏死区域。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>为进一步术前评估，根据患者病情可行磁共振波谱（MRS）、功能磁共振（fMRI）、正电子发射计算机断层显像（PET）、弥散张量成像（DTI）、弥散成像（DWI）、脑磁图（MEG）、脑电图、电生理等检查。
+（三）选择治疗方案的依据
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·神经外科学分册》（中华医学会编著，人民卫生出版社）、《临床技术操作规范·神经外科分册》（中华医学会编著，人民军医出版社）、《王忠诚神经外科学》（王忠诚主编，湖北科学技术出版社）、《神经外科学》（赵继宗主编，人民卫生出版社）。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.影像学怀疑为大脑半球胶质瘤者，均需进行病理诊断。有颅内压增高症状或局灶性症状者需手术治疗，手术方法为幕上开颅肿瘤切除术。症状不明显者可行开颅手术，也可以行立体定向活检。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>2.低级别（Ⅰ-Ⅱ级）大脑半球胶质瘤，下列情况应当考虑手术治疗：
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（1）临床和影像学资料不能获得确切诊断的患者，建议行手术活检或部分切除以确立诊断。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（2）肿瘤巨大或占位效应明显，有导致脑疝的可能。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（3）难治性癫痫。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（4）为推迟辅助性治疗及其对儿童的副作用（尤其是年龄小于5岁的患儿）。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>（5）大多数浸润生长的大脑半球胶质瘤外科手术无法治愈，在保留功能前提下最大程度切除肿瘤可改善预后。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLine="560"/><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="00791B8B"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>3.手术风险较大者（高龄、妊娠期、合并较严重内科疾病等），需向患者或家属充分交代手术风险；如不同意手术，应履行签字手续。
+
+
+------
+
+病种：小脑扁桃体下疝畸形
+来源文件：小脑扁桃体下疝畸形临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）病情通常进展缓慢，多呈进行性加重，临床症状可与畸形程度不一致，可存在下列一种或多种症状。
+（2）神经根及后组颅神经症状：枕项部疼痛、僵硬、束带感，上肢麻木，言语不清，饮水呛咳，吞咽困难等。
+（3）脊髓空洞相关症状：出现单侧上肢与上胸节之节段性感觉障碍，常以节段性分离性感觉障碍为特点，痛、温觉减退或消失，深感觉存在，该症状也可为两侧性；
+或出现自主神经损害症状。
+（4）上颈髓及延髓症状：如躯干及四肢感觉及运动障碍，呼吸费力，椎体束征阳性等。
+（5）小脑症状：眼球震颤，小脑性共济失调等。
+（6）如合并脑积水，可有颅内压增高症状。
+（7）神经营养不良性关节病(夏氏关节病)：多为一侧肩关节、肘关节及指间关节的肿胀、关节脱位及关节间隙骨性破坏。
+2.辅助检查 （1）枕颈部或颈椎MRI检查：显示小脑扁桃体下降至枕大孔水平以下超过5mm，了解是否合并脊髓空洞。
+（2）颈椎X线片、三维CT(必要时需动力位检查)是否合并骨性畸形，可评估颅颈交界区稳定性。
+（3）必要时，查头颅CT或MRI了解是否合并脑积水。
+（4）必要时，查胸椎MRI可了解脊髓空洞是否累及胸段脊髓，查腰椎MR可了解是否合并脊髓拴系综合征。
+（三）选择治疗方案的依据
+1.明确诊断为小脑扁桃体下疝畸形，出现神经系统症状或病情进展者需手术治疗，手术可选小骨窗枕下减压术，硬脑膜减张缝合术，对伴有严重小脑扁桃体下疝者可同时进行下疝扁桃体切除及硬膜扩大修补术。
+2.对于手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属详细交待病情。
+3.对于严密观察保守治疗的患者，如出现因脑积水导致的严重颅内压增高征象，必要时予急诊手术。
+
+
+------
+
+病种：颅前窝底脑膜瘤
+来源文件：颅前窝底脑膜瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现：肿瘤体积增大引起慢性颅压增高表现，主要为头痛、恶心、呕吐等；
+因额叶受损出现精神、智力症状，主要表现为记忆力障碍、反应迟钝、淡漠；
+局部压迫症状，嗅觉、视觉受损；
+皮层刺激症状，继发性癫痫。
+2.辅助检查：头颅MRI平扫+增强序列或CT平扫+增强显示颅内占位性病变，基底位于颅前窝底，边界清楚，明显均匀强化，额叶底面和鞍区结构受压。
+（三）选择治疗方案的依据
+1.拟诊断为颅前窝底脑膜瘤者，有明确的颅内压增高症状或局灶性症状者需手术治疗，手术方法是冠状切口经额入路开颅肿瘤切除术或经额外侧入路开颅肿瘤切除术。
+2.对于手术风险较大者（高龄、妊娠期、合并较严重的内科疾病者）， 要向患者或家属仔细交代病情，如不同意手术，应履行签字手续，并予以严密观察。
+3.对于严密观察保守治疗者，一旦出现颅内压增高征象，局灶症状/体征或肿瘤明显增大，考虑手术治疗，必要时予以急诊手术。
+
+
+------
+
+病种：颅后窝脑膜瘤
+来源文件：颅后窝脑膜瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现：颈痛，颅内压升高症状，肢体力弱，感觉障碍，颅神经受累，小脑损害体征，锥体束征等。
+2.辅助检查：头颅MRI平扫+增强，CT平扫+增强提示病变
+3.术中病理证实。
+（三）选择治疗方案的依据
+1.手术：后正中/旁正中/枕下乙状窦后入路/远外侧/其他入路颅后窝脑膜瘤切除术。
+2.术前栓塞（酌情）。
+3.残余肿瘤术后放射治疗（酌情）。
+
+
+------
+
+病种：颅骨凹陷性骨折
+来源文件：颅骨凹陷性骨折临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）病史：多有头部外伤病史。
+（2）头皮血肿：在受力点有头皮血肿或挫伤。
+（3）局部下陷：急性期可检查出局部骨质下陷。
+（4）局灶性症状：当骨折片下陷较深时，可刺破硬脑膜，损伤及压迫脑组织导致偏瘫、失语和（或）局灶性癫痫等相应症状。
+2.辅助检查 （1）头颅X线平片：包括正位、侧位和骨折部位切线位平片，后者可显示骨折片陷入颅内深度。
+（2）头颅CT扫描（含骨窗像或三维重建）：可显示凹陷骨折范围及深度，CT平扫可除外有无继发颅内异常。
+(3) 血常规。
+（三）选择治疗方案的依据
+1.颅骨凹陷性骨折诊断明确，骨折凹陷深度＞1cm，临床出现局灶性症状或颅内压增高症状者，需行凹陷骨折整复术：较固定的凹陷骨折，采用凹陷四周钻孔、铣（或锯）下骨瓣，将其整复成形再复位固定；
+粉碎性凹陷骨折，需手术摘除游离碎骨片，保留带有骨膜的骨片，缩小日后需修补的面积，需向家属交待病情及围术期可能出现的并发症。
+2.大静脉或静脉窦处的凹陷性骨折，如无明显临床症状，即使下陷较深仍可观察，待充分准备后择期手术；
+重要功能区的凹陷骨折，当骨折片压迫导致神经功能障碍，如偏瘫、肢体麻木、癫痫等，应行骨片整合复位或清除术。
+3.合并脑损伤或凹陷面积大，导致颅内压增高、CT显示中线结构移位、出现脑疝征象者，应行开颅去骨瓣减压术。
+4.开放性粉碎性凹陷性骨折者，行手术清创及骨片清除术。
+5.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+6.对于严密观察、保守治疗的患者，如出现颅内压增高征象应行急诊手术。
+
+
+------
+
+病种：颅骨良性肿瘤
+来源文件：颅骨良性肿瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）好发于20～30岁青壮年，病程较长。
+（2）无痛或局部轻度疼痛及酸胀感包块。
+（3）部分较大的内生型骨肿瘤可产生脑组织受压引发的局灶性症状如偏瘫、失语、同向性偏盲、癫痫发作等。
+（4）极少数巨大骨肿瘤可产生颅高压表现，如头痛、恶心、呕吐、视物模糊等。
+（5）部分位于颅底的骨肿瘤可产生眼球突出、眼球运动障碍，及颅神经压迫症状，如面部感觉减退、视力减退和听力减退等。
+2.辅助检查 （1）头颅CT扫描（加骨窗像检查）：表现为骨质增生或破坏；
+如侵犯颅底，必要时可行三维CT检查或冠状位扫描；
+多平面重建 HYPERLINK "http://www.so.com/link?m=aSgXvDVpp8MG%2FNzLspipWURhP1ZCVZgAIu30Ju%2F7sn7SoP1GQHJtt%2B5bWyKfJh0twf6%2Flsgg4I43rVI%2BC8yGSiXRNqh1GarNzHZRkn0UKXtxwVPM0tNtgj3MqVpHIfDZCjH%2FkbwOfqr0%3D" (Multiplanar Reformation，MPR) 与容积再现（Volume Rendering，VR）等后处理技术可更全面、立体、直观、清晰地显示颅骨病灶的形态、累及范围及与周围组织结构的关系。
+（2）X线平片检查：可表现为骨质增生或骨质破坏。
+（3）MRI检查可了解肿瘤侵入颅内程度。
+（三）选择治疗方案的依据
+1.对于肿瘤较大而影响外观、内生型肿瘤出现颅压高或局灶性症状者应当行颅骨肿瘤切除术。
+术式包括单纯颅骨肿瘤切除术、颅骨肿瘤切除术加一期颅骨成形术。
+2.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------
+
+病种：颈内动脉动脉瘤
+来源文件：颈内动脉动脉瘤临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.临床表现 （1）破裂动脉瘤：①动脉瘤破裂出血症状：颈内动脉动脉瘤破裂可引起蛛网膜下腔出血（SAH）、脑内出血、脑室出血或硬脑膜下腔出血等。
+其中SAH最为常见，典型症状和体征有剧烈头痛、呕吐甚至昏迷等。
+②动眼神经麻痹：表现为眼球外斜，瞳孔散大，对光反射缺失，多由颈内动脉－后交通动脉瘤引起。
+③脑血管痉挛症状：症状通常逐渐发生，表现为精神异常或意识障碍，伴局灶性神经功能缺损。
+④癫痫发作：可发生抽搐，多为大发作。
+⑤脑积水：动脉瘤出血后，可因凝血块阻塞室间孔、第三脑室、中脑导水管或第四脑室，引起急性脑积水；
+或基底池粘连、蛛网膜颗粒吸收障碍引起慢性脑积水。
+（2）未破裂动脉瘤：可表现为头痛、头晕、癫痫、TIA发作等，或动眼神经麻痹、患侧视力视野受损，也可无任何症状，经查体或其他原因偶然发现。
+2.辅助检查 （1）头颅CT：是SAH首选诊断方法，通过CT扫描还可评定以下方面：①脑室大小：部分动脉瘤破裂患者立即发生脑积水；
+②血肿，有占位效应的脑内血肿或硬脑膜下血肿；
+③脑梗死；
+④脑池和脑沟中出血量：用于Fisher分级，是血管痉挛的重要预后因素；
+⑤合并多发动脉瘤时，CT可以初步判断责任动脉瘤；
+⑥部分患者可以通过头颅CT初步预测动脉瘤的位置：出血主要在鞍上池和侧裂，可考虑颈内动脉动脉瘤。
+（2）CT脑血管造影（CTA）：多数情况下可以显示动脉瘤的部位、大小、形态、有无多发动脉瘤、载瘤动脉及动脉瘤的钙化情况，以及病变与骨性结构解剖关系。
+（3）腰椎穿刺：SAH最敏感的检查方法，但目前不应当作为首选诊断方法。
+降低脑脊液压力有可能因增加跨血管壁压力而导致再出血，故建议仅用于CT不能证实而临床高度怀疑的病例，应当使用较细的腰椎穿刺针，放出少量脑脊液（几毫升）即可。
+（4）数字减影脑血管造影（DSA）：目前是诊断颅内动脉瘤的“金标准”，大部分患者可显示出动脉瘤的部位、大小、形态、有无多发动脉瘤，SAH后首次造影阴性患者应在2～3周后复查，仅少数患者归于“不明原因SAH”。
+另外，DSA还可以显示是否存在血管痉挛及其程度。
+（5）头颅MRI：对于大动脉瘤应当行头颅MRI检查。
+磁共振血管成像（MRA）可用于体检筛查动脉瘤。
+（三）选择治疗方案的依据
+1.诊断为颈内动脉动脉瘤，有明确手术适应征需手术治疗，手术方法为行额颞开颅翼点或眶上眉弓入路动脉瘤夹闭术，不包括需颅内外动脉搭桥血流重建的病例。
+2.手术风险较大者（高龄、妊娠期、合并较严重内科疾病），需向患者或家属交代病情；
+如不同意手术，应当充分告知风险，履行签字手续，并予严密观察。
+
+
+------

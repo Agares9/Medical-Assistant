@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MediX Agent Swarm</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <main class="site-shell">
+      <section id="homePage" class="page home-page" aria-label="MediX 首页">
+        <div class="ambient-layer" aria-hidden="true">
+          <div class="glow glow-teal"></div>
+          <div class="glow glow-blue"></div>
+          <div class="glow glow-green"></div>
+          <div class="data-field">
+            <span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span>
+          </div>
+        </div>
+
+        <nav class="home-nav" aria-label="主导航">
+          <div class="nav-brand">
+            <div class="brand-mark image-mark"><img src="/icon.png" alt="MediX" /></div>
+            <div>
+              <strong>Medix Swarm</strong>
+              <span>Medical Agent Runtime</span>
+            </div>
+          </div>
+          <div class="nav-links">
+            <button type="button" data-target="agents"><span class="mini-icon pulse-icon" aria-hidden="true"></span>Agent 状态</button>
+            <button type="button" data-target="safety"><span class="mini-icon shield-icon" aria-hidden="true"></span>安全审查</button>
+            <button type="button" data-target="knowledge"><span class="mini-icon book-icon" aria-hidden="true"></span>知识库</button>
+          </div>
+        </nav>
+
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Multi-Agent Medical Copilot</p>
+            <h1>智能医药助手</h1>
+            <h2>让多个 Agent 协同完成问答</h2>
+            <p class="hero-text">
+              从症状理解、医学知识检索、用药安全审查到最终回复生成，每一步都可追踪、可解释、可回放。
+            </p>
+            <div class="hero-actions">
+              <button id="enterQaBtn" class="primary-cta" type="button">进入问答页面 <span class="mini-icon arrow-icon" aria-hidden="true"></span></button>
+            </div>
+            <p class="route-hint">进入问答工作台后可查看实时 Agent 流程</p>
+          </div>
+
+          <aside class="runtime-console" aria-label="Agent Runtime">
+            <div class="console-topbar">
+              <span></span><span></span><span></span>
+              <strong>Agent Runtime / Live</strong>
+              <em>LIVE</em>
+            </div>
+            <div class="orbit-stage" aria-hidden="true">
+              <div class="orbit orbit-outer"></div>
+              <div class="orbit orbit-mid"></div>
+              <div class="core-node">AI</div>
+              <div class="agent-node node-dispatch">调度</div>
+              <div class="agent-node node-retrieval">检索</div>
+              <div class="agent-node node-analysis">分析</div>
+              <div class="agent-node node-safety">安全</div>
+              <div class="agent-node node-answer">回复</div>
+            </div>
+            <div class="runtime-rows" aria-label="模拟 Agent 延迟">
+              <div><span class="ok"></span><strong>Supervisor</strong><em>routing</em><b data-latency data-min="55" data-max="180">98ms</b></div>
+              <div><span class="info"></span><strong>Medical RAG</strong><em>retrieving guideline snippets</em><b data-latency data-min="180" data-max="680">312ms</b></div>
+              <div><span class="warn"></span><strong>Safety Guard</strong><em>checking contraindications</em><b data-latency data-min="90" data-max="360">176ms</b></div>
+              <div><span class="violet"></span><strong>Response Writer</strong><em>streaming answer draft</em><b data-latency data-min="120" data-max="520">244ms</b></div>
+            </div>
+          </aside>
+        </section>
+
+        <section class="home-stats" aria-label="系统状态">
+          <div><strong>5</strong><span>Agents</span></div>
+          <div><strong>24/7</strong><span>Safety</span></div>
+          <div><strong>0</strong><span>Blocked</span></div>
+        </section>
+      </section>
+
+      <section id="agentsPage" class="page info-page hidden" aria-label="Agent 状态页面">
+        <nav class="home-nav info-nav" aria-label="Agent 状态导航">
+          <div class="nav-brand">
+            <div class="brand-mark image-mark"><img src="/icon.png" alt="MediX" /></div>
+            <div><strong>Agent 状态</strong><span>Runtime Overview</span></div>
+          </div>
+          <div class="nav-links">
+            <button type="button" data-target="home">首页</button>
+            <button type="button" data-target="qa">问答</button>
+          </div>
+        </nav>
+        <section class="info-content">
+          <p class="eyebrow">Agent Runtime</p>
+          <h1>当前多智能体运行状态</h1>
+          <div class="info-grid">
+            <article><span class="status-dot ok"></span><h2>LeadAgent</h2><p>负责问题复杂度判断、任务拆分和最终汇总。</p><strong>Ready</strong></article>
+            <article><span class="status-dot info"></span><h2>ConsultationAgent</h2><p>处理通用健康咨询、生活方式建议和常见问题答复。</p><strong>Ready</strong></article>
+            <article><span class="status-dot warn"></span><h2>DiagnosticAgent</h2><p>负责症状模式分析、风险分级和鉴别诊断思路。</p><strong>Ready</strong></article>
+            <article><span class="status-dot violet"></span><h2>ResearchAgent</h2><p>检索临床指南、循证资料和深度研究结果。</p><strong>Ready</strong></article>
+          </div>
+        </section>
+      </section>
+
+      <section id="safetyPage" class="page info-page hidden" aria-label="安全审查页面">
+        <nav class="home-nav info-nav" aria-label="安全审查导航">
+          <div class="nav-brand">
+            <div class="brand-mark image-mark"><img src="/icon.png" alt="MediX" /></div>
+            <div><strong>安全审查</strong><span>Medical Guardrails</span></div>
+          </div>
+          <div class="nav-links">
+            <button type="button" data-target="home">首页</button>
+            <button type="button" data-target="qa">问答</button>
+          </div>
+        </nav>
+        <section class="info-content">
+          <p class="eyebrow">Safety Review</p>
+          <h1>医疗输出约束与风险提示</h1>
+          <div class="info-grid">
+            <article><h2>免责声明检查</h2><p>回答会补充“不能替代专业医生诊断和治疗”的安全提示。</p><strong>Enabled</strong></article>
+            <article><h2>高危症状提醒</h2><p>胸痛、呼吸困难、意识障碍等问题会优先提示及时就医。</p><strong>Enabled</strong></article>
+            <article><h2>约束验证</h2><p>运行时读取 YAML 约束，对 Agent 能力边界和输出进行校验。</p><strong>Enabled</strong></article>
+            <article><h2>自动修复</h2><p>当回答缺少关键安全提示时，自动补全结构化说明。</p><strong>Enabled</strong></article>
+          </div>
+        </section>
+      </section>
+
+      <section id="knowledgePage" class="page info-page hidden" aria-label="知识库页面">
+        <nav class="home-nav info-nav" aria-label="知识库导航">
+          <div class="nav-brand">
+            <div class="brand-mark image-mark"><img src="/icon.png" alt="MediX" /></div>
+            <div><strong>知识库</strong><span>Milvus Medical RAG</span></div>
+          </div>
+          <div class="nav-links">
+            <button type="button" data-target="home">首页</button>
+            <button type="button" data-target="qa">问答</button>
+          </div>
+        </nav>
+        <section class="info-content">
+          <p class="eyebrow">Knowledge Base</p>
+          <h1>本地医学知识库概览</h1>
+          <div class="info-grid">
+            <article><h2>Milvus Lite</h2><p>本地 collection: medical_knowledge，使用 512 维中文向量模型。</p><strong>Loaded</strong></article>
+            <article><h2>生活方式文档</h2><p>包含高血压、糖尿病、感冒和通用健康生活方式建议。</p><strong>4 files</strong></article>
+            <article><h2>症状与 ICD-10</h2><p>包含急症症状识别和心血管、内分泌、感染性疾病编码资料。</p><strong>4 files</strong></article>
+            <article><h2>临床指南</h2><p>包含高血压和糖尿病指南资料，供 Agent 检索引用。</p><strong>2 files</strong></article>
+          </div>
+        </section>
+      </section>
+
+      <section id="qaPage" class="page qa-page hidden" aria-label="医疗问答页面">
+        <aside class="agent-sidebar" aria-label="Agent 状态">
+          <div class="qa-brand">
+            <div class="brand-mark image-mark"><img src="/icon.png" alt="MediX" /></div>
+            <div>
+              <img class="brand-title-img" src="/brand-title.png" alt="智能医药助手" />
+              <p>Medix Agent Swarm</p>
+            </div>
+          </div>
+
+          <div class="sidebar-scroll">
+          <section class="agent-card">
+            <div class="card-title">
+              <h2><span class="mini-icon pulse-icon" aria-hidden="true"></span>当前 Agent 状态</h2>
+              <span class="status-chip"><i></i>运行中</span>
+            </div>
+            <p>任务: 多 Agent 医疗问答编排</p>
+            <div class="progress-meta">
+              <span>执行进度</span>
+              <strong id="progressLabel">待命</strong>
+            </div>
+            <div id="progressTrack" class="progress-track"><span id="progressBar"></span></div>
+            <small>最近心跳 12 秒前 / 无阻塞</small>
+          </section>
+
+          <section class="orchestration-card">
+            <h2><span class="mini-icon network-icon" aria-hidden="true"></span>项目编排</h2>
+            <div class="metric-grid">
+              <div><strong id="agentCount">5</strong><span>Agents</span></div>
+              <div><strong id="modeLabel">协作</strong><span>模式</span></div>
+              <div><strong id="queueCount">2</strong><span>队列</span></div>
+            </div>
+          </section>
+
+          <section class="flow-card">
+            <div class="card-title">
+              <h2><span class="mini-icon flow-icon" aria-hidden="true"></span>Agent 流程图</h2>
+              <span>Supervisor 模式</span>
+            </div>
+            <div id="agentFlow" class="agent-flow" aria-label="Agent 执行流程">
+              <div class="flow-step active" data-step="supervisor"><i></i><strong>调度</strong><span>Supervisor</span></div>
+              <div class="flow-step" data-step="rag"><i></i><strong>检索</strong><span>Medical RAG</span></div>
+              <div class="flow-step" data-step="analysis"><i></i><strong>分析</strong><span>Diagnostic</span></div>
+              <div class="flow-step" data-step="safety"><i></i><strong>安全</strong><span>Guard</span></div>
+              <div class="flow-step" data-step="writer"><i></i><strong>回复</strong><span>Writer</span></div>
+            </div>
+            <p id="flowCaption">等待问题输入</p>
+          </section>
+
+          <section class="active-card">
+            <h2><span class="mini-icon agent-icon" aria-hidden="true"></span>活跃 Agents</h2>
+            <ul id="activeAgents">
+              <li><i class="ok"></i><strong>Supervisor</strong><span>编排中</span></li>
+              <li><i class="info"></i><strong>Medical RAG</strong><span>检索知识库</span></li>
+              <li><i class="warn"></i><strong>Safety Guard</strong><span>审查风险</span></li>
+              <li><i class="muted"></i><strong>Response Writer</strong><span>等待输入</span></li>
+            </ul>
+          </section>
+
+          <section class="history-card">
+            <h2><span class="mini-icon history-icon" aria-hidden="true"></span>最近对话</h2>
+            <div id="recentConversations" class="recent-conversations">
+              <p class="empty-history">暂无历史对话</p>
+            </div>
+          </section>
+          </div>
+
+          <footer class="doctor-footer">
+            <div class="doctor-avatar">张医</div>
+            <div>
+              <strong>张医生 (测试账号)</strong>
+              <span>呼吸内科 / 副主任医师</span>
+            </div>
+            <button id="homeBtn" type="button" title="返回首页" aria-label="返回首页"><span class="mini-icon home-icon" aria-hidden="true"></span><span>首页</span></button>
+          </footer>
+        </aside>
+
+        <section class="chat-workspace" aria-label="医疗问答">
+          <header class="chat-header">
+            <div>
+              <h2>医疗咨询</h2>
+              <p>输入症状、病史或健康问题，系统会自动选择单 Agent 或 Swarm 协作。</p>
+            </div>
+            <button id="newSessionBtn" class="icon-button" type="button" title="新会话" aria-label="新会话">+</button>
+          </header>
+
+          <div id="messages" class="messages" aria-live="polite">
+            <article class="message assistant">
+              <div class="avatar">M</div>
+              <div class="bubble">
+                <p>请描述问题。可以包含年龄、症状持续时间、伴随症状、既往病史和用药情况。</p>
+              </div>
+            </article>
+          </div>
+
+          <form id="chatForm" class="composer">
+            <textarea id="questionInput" rows="3" placeholder="例如：病人说身上长了奇怪的皮疹有点痒，可能是怎么回事"></textarea>
+            <div class="composer-actions">
+              <span id="sessionLabel">初始化中</span>
+              <button id="clearBtn" class="secondary-button" type="button">清空</button>
+            <button id="sendBtn" class="primary-button" type="submit">发送 <span class="mini-icon arrow-icon" aria-hidden="true"></span></button>
+            </div>
+          </form>
+        </section>
+      </section>
+    </main>
+
+    <div id="verifyOverlay" class="verify-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="verifyTitle">
+      <form id="verifyForm" class="verify-dialog">
+        <div class="verify-mark"><img src="/icon.png" alt="MediX" /></div>
+        <p class="eyebrow">Access Verification</p>
+        <h2 id="verifyTitle">验证确认</h2>
+        <p class="verify-copy">补全作者姓名：<strong class="name-prompt">亢*<span class="name-slot" aria-hidden="true"></span></strong></p>
+        <label class="verify-field">
+          <span>输入最后一个字</span>
+          <input id="verifyInput" type="text" maxlength="1" autocomplete="off" />
+        </label>
+        <p id="verifyError" class="verify-error" aria-live="polite"></p>
+        <div class="verify-actions">
+          <button id="verifyCancelBtn" class="secondary-button" type="button">取消</button>
+          <button id="verifySubmitBtn" class="primary-button" type="submit">验证</button>
+        </div>
+      </form>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

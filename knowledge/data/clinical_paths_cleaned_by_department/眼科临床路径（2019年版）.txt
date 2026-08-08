@@ -1,0 +1,139 @@
+科室文件夹：眼科临床路径（2019年版）
+来源目录：D:\workfile\224个病种临床路径（2019年版）\眼科临床路径（2019年版）
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+病种：上睑下垂
+来源文件：上睑下垂临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1. 上睑缘的正常位置在上方角膜缘和上方瞳孔缘的中部，具体位置有小的差异，正常情况下睁眼平视时，上睑缘约位于角膜缘下2mm；
+排除额肌作用下，上睑缘遮盖角膜＞2mm即可诊断上睑下垂。
+2.鉴别诊断： （1）因神经系统疾病如重症肌无力、霍纳综合征（Horner syndrome）、动眼神经麻痹，以及其他眼部或全身性疾病所致的获得性上睑下垂。
+（2）颌动瞬目综合征[Jaw Winking syndrome，亦即 Marcus-Gunn现象（Marcus Gunn phenomenon）]。
+（三）选择治疗方案的依据
+1.先天性上睑下垂： （1）轻至中度上睑下垂，因为瞳孔可以部分或全部暴露，故较少发生形觉剥夺性弱视，故可以在患者年龄较大，可以配合局部麻醉后手术矫正，如考虑社会心理因素，可以在学龄前期即3～5岁手术。
+(2)重度上睑下垂，因瞳孔全部遮盖，仰头视物，为预防形觉剥夺性弱视及脊柱发育问题，可在3岁左右手术。
+2. 后天性上睑下垂： (1)外伤性上睑下垂，急性外伤可行提上睑肌修复。
+如为陈旧性损伤，则待局部瘢痕组织软化后可考虑手术。
+(2)腱膜性上睑下垂，影响外观和生活即可手术。
+(3)动眼神经麻痹，重症肌无力及其他后天性上睑下垂，首先治疗原发病，待原发病稳定半年以上可考虑手术。
+3.根据患者病情选择手术方式：包括提上睑肌缩短术、额肌瓣悬吊术、阔筋膜或硅胶条悬吊术、Müller肌缩短术和联合筋膜鞘（CFS）悬吊术等，建议手术设计重睑切口，隐藏术后切口疤痕。
+。
+
+
+------
+
+病种：急性虹膜睫状体炎
+来源文件：急性虹膜睫状体炎临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.症状：眼红、眼痛、畏光、流泪、视物模糊或视力下降。
+2.体征：球结膜睫状充血或混合充血，大量灰白色尘状角膜后沉着物（KP），前房闪辉+以上，房水炎症细胞+以上，前房纤维素性渗出，前房积脓，瞳孔缩小或不规则，虹膜后粘连，少数患者出现反应性视盘水肿或黄斑水肿。
+（三）选择治疗方案的依据
+1.抗炎：糖皮质激素滴眼液滴眼。
+2.散瞳：拉开和预防虹膜后粘连，滴用睫状肌麻痹剂。
+3.对于出现反应性视盘水肿或黄斑水肿者，可短期给予糖皮质激素口服治疗。
+
+
+------
+
+病种：慢性泪囊炎泪囊鼻腔吻合术
+来源文件：慢性泪囊炎泪囊鼻腔吻合术临床路径（2019年版）.docx
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0017400A"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年，第1版）。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0017400A"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.症状：溢泪，伴分泌物多或流脓，可伴内眦皮肤潮红、糜烂。
+2.体征：鼻侧球结膜充血,挤压泪囊区有黏液或黏脓性分泌物自泪点溢出。
+3泪道探查冲洗：鼻泪管不通，或不畅，但泪点正常，泪小管、泪总管通畅。
+4.辅助检查：泪道碘油X线造影检查见泪囊显影，鼻泪管阻塞或重度狭窄。必要时做泪道CT造影+三维重建检查、泪道超声检查、泪道磁共振检查进一步明确。
+（三）选择治疗方案的依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0017400A"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年，第1版），符合以下条件者可选择行泪囊鼻腔吻合术。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0017400A"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hint="eastAsia"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>泪囊大小基本正常,X线造影或CT造影显示泪囊垂直径≥5mm、横径和前后径均≥5mm以上，无出血性疾病,无鼻科相关的手术禁忌症，如: 鼻腔重度粘连或狭窄、鼻中隔明显偏曲、鼻黏膜明显萎缩和糜烂，或鼻腔有肿瘤、息肉等病变。
+
+
+------
+
+病种：白内障囊外摘除联合人工晶体植入术
+来源文件：白内障囊外摘除联合人工晶体植入术临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.症状：无痛性、渐进性视力下降。
+2.体征：检查可见除晶状体皮质、晶状体核、晶状体后囊下明显混浊外，其余眼前段检查基本正常。
+3.眼底超声检查无明显异常。
+（三）选择治疗方案的依据
+（2）患者不具备行白内障超声乳化人工晶状体植入手术条件, 如晶状体核较硬（Ⅴ级核）、角膜内皮细胞计数过少或晶状体不同程度的脱位。
+（3）无白内障手术禁忌证。
+
+
+------
+
+病种：经巩膜二级管激光睫状体光凝术
+来源文件：经巩膜二级管激光睫状体光凝术临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.病史：有原发性或各种原因引起的继发性青光眼病史，多为青光眼晚期或绝对期，经其他抗青光眼治疗无效者。
+2.临床表现：长期高眼压，伴眼红、流泪、眼胀痛、头痛，视功能严重减退或丧失。
+3.辅助检查：超声等。
+（三）选择治疗方案的依据
+行经巩膜二级管激光睫状体光凝术（ICD-9-CM-3：
+12.73）。
+编怀 变异及原因分析。
+眼部刺激症状；
+根据根据
+
+
+------
+
+病种：老年性白内障
+来源文件：老年性白内障临床路径（2019年版）.doc
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+1.病史：无痛性、渐进性视力下降。
+2.体格检查：晶状体出现不同部位及程度的混浊；
+眼底像不清晰。
+（三）选择治疗方案的依据
+1.诊断明确。
+2.视力下降影响患者生活质量。
+3.患者及家属同意手术。
+
+
+------
+
+病种：角膜裂伤
+来源文件：角膜裂伤临床路径（2019年版）.docx
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年版，第1版）。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.眼部外伤史。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>2.症状：眼部刺激症状。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>3.体征：角膜板层或者全层裂伤伴或不伴前房形成不良。
+（三）选择治疗方案的依据
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年版，第1版）。
+<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/><w:bar w:val="none" w:sz="0" w:color="auto"/></w:pBdr><w:spacing w:line="360" w:lineRule="auto"/><w:ind w:firstLineChars="196" w:firstLine="627"/><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="003F3506"><w:rPr><w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:cs="Times New Roman" w:hint="eastAsia"/><w:color w:val="auto"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>行角膜裂伤缝合术（ICD-9-CM-3：11.51）。
+
+
+------
+
+病种：难治性青光眼睫状体冷凝术
+来源文件：难治性青光眼睫状体冷凝术临床路径（2019年版）.docx
+说明：仅保留诊断依据和治疗方案，已删除其他章节。
+
+（二）诊断依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0020341D"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hint="eastAsia"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年，第1版）,《临床技术操作规范：眼科学分册》（中华医学会编著，人民军医出版社，2007年，第1版）。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0020341D"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>1.病史：有原发性或各种原因引起的继发性青光眼病史，多为青光眼绝对期，或经其他抗青光眼治疗无效者。
+2.临床表现：长期高眼压，伴眼红、流泪、眼胀痛、头痛，视功能严重减退或丧失。
+3.辅助检查：超声等。
+（三）选择治疗方案的依据
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0020341D"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hint="eastAsia"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>根据《临床诊疗指南·眼科学分册》（中华医学会编著，人民卫生出版社，2006年，第1版），符合以下条件者可选择行睫状体冷凝术。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0020341D"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:lastRenderedPageBreak/><w:t>1.各种类型的青光眼绝对期，伴有严重高眼压不适症状，视功能减退显著，药物控制不佳，有积极要求手术保留眼球的愿望。
+<w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr></w:pPr><w:r w:rsidRPr="0020341D"><w:rPr><w:rFonts w:ascii="仿宋_GB2312" w:eastAsia="仿宋_GB2312" w:hAnsi="宋体"/><w:color w:val="000000"/><w:sz w:val="32"/><w:szCs w:val="32"/></w:rPr><w:t>2.多次滤过性抗青光眼手术后结膜广泛瘢痕，难以建立有效滤过通道者，或已历经睫状体光凝术、术后眼压再升者。
+
+
+------
